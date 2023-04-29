@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/travel/static/css/main.bca987d7.css",
+    "main.js": "/travel/static/js/main.2616ba1a.js",
+    "static/media/tovisitplaces.jpg": "/travel/static/media/tovisitplaces.ae76e9d94630b974a481.jpg",
+    "static/media/maldives.jpg": "/travel/static/media/maldives.03a212073aef79a07ab8.jpg",
+    "static/media/logo2.jfif": "/travel/static/media/logo2.4c105c8893a0288e0d4b.jfif",
+    "static/media/logo.png": "/travel/static/media/logo.8518764a6644660c439b.png",
+    "static/media/restaurant.jfif": "/travel/static/media/restaurant.4f1866e9139709bc8e04.jfif",
+    "static/media/guidance.jfif": "/travel/static/media/guidance.eac7aca7f0498bd38487.jfif",
+    "static/media/hotel.jfif": "/travel/static/media/hotel.34267d86f5709894f679.jfif",
+    "static/media/flight.jfif": "/travel/static/media/flight.00164e5a0b6f0af8fa2d.jfif",
+    "index.html": "/travel/index.html",
+    "main.bca987d7.css.map": "/travel/static/css/main.bca987d7.css.map",
+    "main.2616ba1a.js.map": "/travel/static/js/main.2616ba1a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bca987d7.css",
+    "static/js/main.2616ba1a.js"
+  ]
+}
